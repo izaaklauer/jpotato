@@ -1,4 +1,4 @@
-module github.com/izaaklauer/%%wp_project%%
+module github.com/izaaklauer/jpotato
 
 go 1.19
 
